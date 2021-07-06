@@ -105,3 +105,23 @@ p{
     text-align: center;
     margin: 5% 25%;
 }
+.recipies-item{
+    width: 100%;
+    margin: 2%;
+    box-shadow: 5px 5px 40px gray;
+    border-radius: 10%;
+    padding: 2%;
+    
+}
+.recipies-item img{
+    width: 100%;
+}
+#bean{
+
+}
+#butter{
+    
+}
+#vegetable{
+    
+}

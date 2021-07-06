@@ -1,5 +1,6 @@
 body{
     margin: 0;
+    font-family: 'Montserrat', sans-serif;
 }
 .header{
     width: 90%;
@@ -11,6 +12,7 @@ body{
 }
 .logo{
     width: 20%;
+    cursor: pointer;
 }
 .logo img{
     width: 80%;
@@ -23,4 +25,42 @@ body{
     display: flex;
     justify-content: space-between;
     margin-left: 40%;
+    cursor: pointer;
 }
+.starter{
+    display: flex;
+    padding: 7%;
+    align-items: center;
+}
+.healthy{
+    width: 50%;
+}
+h1{
+    font-size: 60px;
+    letter-spacing: -0.02em; 
+    color: #575757;   
+}
+span{
+    color: tomato;
+}
+p{
+    color: #828282;
+    margin-bottom: 8%;
+}
+.order-button{
+    text-decoration: none;
+    padding: 15px 25px;
+    background-image: linear-gradient(to right, orange, orangered);
+    border-radius: 50px;
+    color: white;
+    font-weight: 600;
+    font-size: 13px;
+}
+.food{
+    width: 50%;
+}
+
+.food img{
+    width: 90%;
+}
+

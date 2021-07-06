@@ -74,7 +74,7 @@ p{
     background-position: center;
     position:relative;
     overflow: hidden;
-    margin: 3% 0 3% 0;
+    margin: 3% 0;
 }
 .person{
     width: 50%;
@@ -101,4 +101,7 @@ p{
     font-weight: 550;
     font-size: 15px;
 }
-
+.center{
+    text-align: center;
+    margin: 5% 25%;
+}
